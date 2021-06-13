@@ -1,0 +1,18 @@
+service: serverless-logbert
+
+provider:
+  name: aws #cloud provider
+  region: ap-south-1 #region (mumbai)
+  memorySize: 10240 #memory usage
+  timeout: 300 
+
+functions:
+  logbert:
+    image:   #PATH of model image - ecr_url@digest 
+    events:
+      - http:
+          path: log #url path
+          method: post #request type
+
+
+
