@@ -22,7 +22,7 @@ Note: upload the processed.csv file, which the training data
 ## Serving Model using Lambda + serverless framework
 
 ### Architecture
-![api](img/API.png)
+![api](img/new_API.png)
 
 
 ## API results
