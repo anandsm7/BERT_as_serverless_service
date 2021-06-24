@@ -30,7 +30,7 @@ Note: upload the processed.csv file, which the training data
 
 ## Tutorial
 
-For complete tutorial please read my medium story (coming soon!)
+For complete tutorial please read my medium blog
 
-[![tutorial](img/medium.svg)](https://medium.com/)
+[![tutorial](img/medium.svg)](https://medium.com/geekculture/deploying-pytorch-model-as-a-serverless-service-339b4b93e517)
 
